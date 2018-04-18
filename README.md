@@ -1,1 +1,1 @@
-# Google-Assistant-Trivia-Quiz
+Google Assistant Trivia Quiz
